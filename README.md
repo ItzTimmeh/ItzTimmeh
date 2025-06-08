@@ -1,1 +1,3 @@
-a 13 yr old making batch tools ;-;
+-A Learning Python and C programmer
+-Asian
+-Tryhard
